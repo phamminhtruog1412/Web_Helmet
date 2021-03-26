@@ -1,1 +1,3 @@
-Xây dựng Website bán mũ bảo hiểm
+<h1>Xây dựng Website bán mũ bảo hiểm</h1>
+-	Bối cảnh : Ngày nay, công nghệ thông tin không ngừng phát triển một cách mạnh mẽ và hiện đại. Các ứng dụng của công nghệ thông tin ngày càng đi sâu vào đời sống con người trở thành một bộ phận không thể thiếu của thế giới . Với xu thế toán càu hóa nền kinh tế thế giới, đặc biệt là nhu cầu trao đổi hàng hóa của con người ngày càng tăng cả về số lượng và chất lượng, nhu cầu sử dụng Internet ngày càng nhiều và các hình thức kinh doanh trên mạng ngàycàng đa dạng và trở thành một công cụ không thể thiếu. Vì vậy, nhiều cửa hàng đã áp dụng phương pháp bán hàng qua mạng (thương mại điện tử) để khách hàng dễ dạng tìm kiếm thông tin sản phẩm và không cần tốn nhiều thời gian và chi phí.
+-	Nhu cầu: Muốn khách hàng tiếp cận nhanh chóng thông tin sản phẩm , quản lý sản phẩm , cập nhập giá , quản lí người dùng
